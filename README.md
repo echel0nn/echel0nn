@@ -1,4 +1,4 @@
-![About Me](https://media.giphy.com/media/h6xcvhuUtTcNFT5gXD/giphy.gif)
+![About Me](https://github.com/echel0nn/echel0nn/raw/master/gif.gif)
 
 <!--
 **echel0nn/echel0nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
